@@ -1,0 +1,26 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #07b5fa;
+background: #07b5fa;
+background: linear-gradient(179deg, rgba(7, 181, 250, 1) 0%, rgba(19, 170, 212, 1) 57%, rgba(52, 117, 76, 1) 100%);
+    margin: 0%;
+}
+.container  {
+    width: 100vw;
+    height: 100vh;
+}
+#background {
+
+    width: 100%;
+    height: 175px;
+    background-color: blueviolet;
+}
+#rybunia    {
+    width: 100%;
+    height: 175px;
+    filter: blur(3px);
+
+
+
+}
